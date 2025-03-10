@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, Firebase**
 
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **akhmadaliyev17x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
