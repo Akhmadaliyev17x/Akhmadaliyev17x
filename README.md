@@ -1,22 +1,46 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali Akhmadaliyev</h1>
-<h3 align="center">A passionate Flutter & Dart Developer</h3>
+# Muhammad Axmadaliyev
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akhmadaliyev17x&label=Profile%20views&color=0e75b6&style=flat" alt="Akhmadaliyev17x" /> </p>
+Hello, I'm Muhammad, a mobile developer focused on Flutter and native iOS development.
 
-- 🔭 I’m currently working on **Mobile Development**
+I build production mobile applications for fintech, EdTech, transportation, logistics and corporate products. My apps have served 1,000,000+ users and reached #1 in the Finance category on both Google Play and the App Store. I care about clean architecture, app stability and measurable business results.
 
-- 📫 How to reach me **akhmadaliyev17x@gmail.com**
+### Areas of Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-axmadaliyev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/akhmadaliyevv___?igsh=MXNuZmo5cTAwbXZobQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yourprofile" height="30" width="40" /></a>
-</p>
+- **Mobile Development:** Building cross-platform applications for Android and iOS using Flutter and Dart.
+- **Native iOS:** Creating native features with Swift and SwiftUI, including WidgetKit widgets and Live Activities.
+- **Real-time and Offline:** Working with REST APIs, WebSockets and offline-first data synchronization.
+- **Payments and Authentication:** Integrating Apple Pay, Payme, Sign in with Apple and Google OAuth.
+- **Development Tools:** Working with Git, Firebase and CI/CD pipelines on GitHub Actions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-</p>
+### Tech Stack
 
+- **Languages:** Dart, Swift, Java, C++
+- **Mobile:** Flutter, SwiftUI, UIKit, WidgetKit, Live Activities, Platform Channels
+- **State Management:** BLoC, Cubit, Riverpod, Provider
+- **API and Database:** REST API, WebSocket, GraphQL, Chopper, Dio, Firebase, Drift, Supabase
+- **Architecture:** Clean Architecture, SOLID, KISS, DRY
+- **Tools:** Git, GitHub Actions, Xcode, Android Studio, Postman, Jira
 
+### Experience
+
+- [**Yunix Taxi**](https://yunix.uz) - iOS and Flutter Developer. Rider app with real-time driver tracking, Yandex Maps, WidgetKit and Live Activities.
+- [**pDaftar**](https://pdaftar.uz) - Flutter Developer. Finance management platform for small businesses, ranked #1 in Finance on both stores.
+- [**Ustoz AI**](https://ustoz.ai) - Flutter Developer. Educational platform with 1M+ users, crash-free rate raised from 30% to 78%.
+- [**eXodim**](https://exodim.uz) - Flutter Developer. Corporate platform with 1C integration, attendance tracking and QR onboarding.
+- **ISM International Group** - Flutter Developer. ELD application for commercial truck drivers.
+
+### Projects
+
+- [**Watchdog**](https://pub.dev/packages/watchdog): open-source Dart and Flutter package for inspecting network requests, routes, instances and error logs of a running app from the browser.
+- **MilliyWay POS:** desktop point-of-sale system built with Flutter Desktop, with serial-port hardware and thermal printer integration.
+
+### GitHub Metrics
+
+![GitHub Statistics](./profile-summary-card-output/github_dark/3-stats.svg)
+![Repositories by Language](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+### Contact
+
+You can contact me through the links below:
+
+[Telegram](https://t.me/muhammad_akhmadaliyev) • [LinkedIn](https://linkedin.com/in/muhammad-axmadaliyev) • [Email](mailto:akhmadaliyev17x@gmail.com) • [GitHub](https://github.com/Akhmadaliyev17x)
