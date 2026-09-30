@@ -2,25 +2,25 @@
   <img src="./banner.svg" alt="Muhammad Axmadaliyev" width="100%" />
 </p>
 
-## About Me
+## 👋 About Me
 
 I'm a mobile developer focused on **Flutter** and **native iOS**. I build production apps for fintech, EdTech, transportation, logistics and corporate products, with an emphasis on clean architecture, app stability and measurable business results.
 
-## Highlights
+## 🏆 Highlights
 
-| Users | Store Ranking | Stability |
+| 👥 Users | 🥇 Store Ranking | 🛡 Stability |
 |:---:|:---:|:---:|
 | **1,000,000+** users served | **#1 in Finance** on Google Play & App Store | Crash-free rate **30% → 94%+** |
 
-## Areas of Focus
+## 🎯 Areas of Focus
 
-- **Mobile Development:** cross-platform apps for Android and iOS with Flutter and Dart
-- **Native iOS:** Swift and SwiftUI, including WidgetKit widgets and Live Activities
-- **Real-time & Offline:** REST, WebSockets and offline-first data synchronization
-- **Payments & Auth:** Apple Pay, Payme, Sign in with Apple, Google OAuth
-- **CI/CD:** automated analyze, format and test checks with GitHub Actions
+- 📱 **Mobile Development:** cross-platform apps for Android and iOS with Flutter and Dart
+- 🍎 **Native iOS:** Swift and SwiftUI, including WidgetKit widgets and Live Activities
+- ⚡ **Real-time & Offline:** REST, WebSockets and offline-first data synchronization
+- 💳 **Payments & Auth:** Apple Pay, Payme, Sign in with Apple, Google OAuth
+- 🔧 **CI/CD:** automated analyze, format and test checks with GitHub Actions
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p>
   <a href="https://dart.dev"><img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
@@ -31,20 +31,9 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
   <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 </p>
 
-<p>
-  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
-  <a href="https://graphql.org"><img src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
-  <a href="https://supabase.com"><img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
-  <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/XCODE-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /></a>
-  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /></a>
-  <a href="https://www.postman.com"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
-</p>
-
 **State Management:** BLoC, Cubit, Riverpod, Provider • **Architecture:** Clean Architecture, SOLID
 
-## Experience
+## 💼 Experience
 
 | Company | Role | What I did |
 |---|---|---|
@@ -54,12 +43,12 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 | [**eXodim**](https://exodim.uz) | Flutter Developer | Corporate app with 1C integration, attendance tracking, QR onboarding |
 | [**ITERA Green ELD**](https://iteragreen.com/en) | Flutter Developer | ELD application for commercial truck drivers (ISM International Group) |
 
-## Projects
+## 📦 Projects
 
-- [**Watchdog**](https://pub.dev/packages/watchdog): open-source Dart/Flutter package to inspect network requests, routes, instances and error logs of a running app from the browser.
-- **MilliyWay POS:** desktop point-of-sale system in Flutter Desktop with serial-port hardware and thermal printer integration.
+- 🐕 [**Watchdog**](https://pub.dev/packages/watchdog): open-source Dart/Flutter package to inspect network requests, routes, instances and error logs of a running app from the browser.
+- 🖨 **MilliyWay POS:** desktop point-of-sale system in Flutter Desktop with serial-port hardware and thermal printer integration.
 
-## Contact
+## 📫 Contact
 
 <p>
   <a href="https://t.me/muhammad_akhmadaliyev"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
