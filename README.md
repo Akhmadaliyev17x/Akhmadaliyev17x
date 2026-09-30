@@ -1,49 +1,50 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:5E5CE6&height=200&section=header&text=Muhammad%20Axmadaliyev&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%C2%B7%20Flutter%20%26%20iOS&descAlignY=58" alt="banner" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=650&lines=Flutter+%26+iOS+Developer;Apps+serving+1%2C000%2C000%2B+users;%231+in+Finance+on+Google+Play+%26+App+Store;Clean+Architecture+%C2%B7+BLoC+%C2%B7+Riverpod" alt="Typing SVG" /></a>
-
-<p>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20years-0A84FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20Uzbekistan-5E5CE6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-2EA043?style=for-the-badge" />
+<p align="center">
+  <img src="./banner.svg" alt="Muhammad Axmadaliyev" width="100%" />
 </p>
 
-</div>
-
----
-
-## 👋 About Me
+## About Me
 
 I'm a mobile developer focused on **Flutter** and **native iOS**. I build production apps for fintech, EdTech, transportation, logistics and corporate products, with an emphasis on clean architecture, app stability and measurable business results.
 
-## 🏆 Highlights
+## Highlights
 
-| 👥 Users | 🥇 Store Ranking | 🚀 Releases | 🛡 Stability |
-|:---:|:---:|:---:|:---:|
-| **1,000,000+** users served | **#1 in Finance** on Google Play & App Store | **18** production releases in one product | Crash-free rate **30% → 78%** |
+| Users | Store Ranking | Stability |
+|:---:|:---:|:---:|
+| **1,000,000+** users served | **#1 in Finance** on Google Play & App Store | Crash-free rate **30% → 94%+** |
 
-## 🎯 Areas of Focus
+## Areas of Focus
 
-- 📱 **Mobile Development:** cross-platform apps for Android and iOS with Flutter and Dart
-- 🍎 **Native iOS:** Swift and SwiftUI, including WidgetKit widgets and Live Activities
-- ⚡ **Real-time & Offline:** REST, WebSockets and offline-first data synchronization
-- 💳 **Payments & Auth:** Apple Pay, Payme, Sign in with Apple, Google OAuth
-- 🔧 **CI/CD:** automated analyze, format and test checks with GitHub Actions
+- **Mobile Development:** cross-platform apps for Android and iOS with Flutter and Dart
+- **Native iOS:** Swift and SwiftUI, including WidgetKit widgets and Live Activities
+- **Real-time & Offline:** REST, WebSockets and offline-first data synchronization
+- **Payments & Auth:** Apple Pay, Payme, Sign in with Apple, Google OAuth
+- **CI/CD:** automated analyze, format and test checks with GitHub Actions
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,swift,java,cpp,firebase,graphql,supabase,git,githubactions,xcode,androidstudio,postman" />
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://www.swift.org"><img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white" /></a>
+  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SWIFTUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" /></a>
+  <a href="https://dev.java"><img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 </p>
 
-- **State Management:** BLoC, Cubit, Riverpod, Provider
-- **Networking:** REST API, WebSocket, GraphQL, Chopper, Dio
-- **Data:** Firebase, Drift, Supabase, flutter_secure_storage
-- **Architecture:** Clean Architecture, SOLID, KISS, DRY
+<p>
+  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="https://graphql.org"><img src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
+  <a href="https://supabase.com"><img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/XCODE-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /></a>
+  <a href="https://www.postman.com"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+</p>
 
-## 💼 Experience
+**State Management:** BLoC, Cubit, Riverpod, Provider • **Architecture:** Clean Architecture, SOLID
+
+## Experience
 
 | Company | Role | What I did |
 |---|---|---|
@@ -51,26 +52,17 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 | [**pDaftar**](https://pdaftar.uz) | Flutter Developer | Finance platform for small businesses, #1 in Finance on both stores |
 | [**Ustoz AI**](https://ustoz.ai) | Flutter Developer | 1M+ users platform, offline-first sync, real-time chat, Apple Pay |
 | [**eXodim**](https://exodim.uz) | Flutter Developer | Corporate app with 1C integration, attendance tracking, QR onboarding |
-| **ISM International Group** | Flutter Developer | ELD application for commercial truck drivers |
+| [**ITERA Green ELD**](https://iteragreen.com/en) | Flutter Developer | ELD application for commercial truck drivers (ISM International Group) |
 
-## 📦 Projects
+## Projects
 
-- 🐕 [**Watchdog**](https://pub.dev/packages/watchdog) - open-source Dart/Flutter package to inspect network requests, routes, instances and error logs of a running app from the browser.
-- 🖨 **MilliyWay POS** - desktop point-of-sale system in Flutter Desktop with serial-port hardware and thermal printer integration.
+- [**Watchdog**](https://pub.dev/packages/watchdog): open-source Dart/Flutter package to inspect network requests, routes, instances and error logs of a running app from the browser.
+- **MilliyWay POS:** desktop point-of-sale system in Flutter Desktop with serial-port hardware and thermal printer integration.
 
-## 📊 GitHub Metrics
+## Contact
 
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" />
-  <img height="180" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<p>
+  <a href="https://t.me/muhammad_akhmadaliyev"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammad-axmadaliyev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akhmadaliyev17x@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://t.me/muhammad_akhmadaliyev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/muhammad-axmadaliyev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akhmadaliyev17x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:5E5CE6&height=120&section=footer" width="100%" />
