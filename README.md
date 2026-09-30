@@ -58,11 +58,10 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 
 
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
 </picture>
-
-
-
