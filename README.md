@@ -65,6 +65,4 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 </picture>
 
 
-<p align="center">
-  <img src="./snake.svg" alt="Snake eating dots" width="100%" />
-</p>
+
