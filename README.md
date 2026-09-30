@@ -43,10 +43,9 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 | [**eXodim**](https://exodim.uz) | Flutter Developer | Corporate app with 1C integration, attendance tracking, QR onboarding |
 | [**ITERA Green ELD**](https://iteragreen.com/en) | Flutter Developer | ELD application for commercial truck drivers (ISM International Group) |
 
-## 📦 Projects
+## 📦 Package
 
 - 🐕 [**Watchdog**](https://pub.dev/packages/watchdog): open-source Dart/Flutter package to inspect network requests, routes, instances and error logs of a running app from the browser.
-- 🖨 **MilliyWay POS:** desktop point-of-sale system in Flutter Desktop with serial-port hardware and thermal printer integration.
 
 ## 📫 Contact
 
