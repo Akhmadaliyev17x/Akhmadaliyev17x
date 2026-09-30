@@ -60,7 +60,6 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boburbek6010&label=Profile%20views&color=0e75b6&style=flat" alt="boburbek6010" /> </p>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake-dark.svg" />
