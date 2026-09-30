@@ -55,3 +55,11 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
   <a href="https://linkedin.com/in/muhammad-axmadaliyev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akhmadaliyev17x@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
+</picture>
