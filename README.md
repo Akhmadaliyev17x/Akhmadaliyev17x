@@ -63,3 +63,8 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
 </picture>
+
+
+<p align="center">
+  <img src="./snake.svg" alt="Snake eating dots" width="100%" />
+</p>
