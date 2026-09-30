@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="172" viewBox="0 0 840 172">
+  <defs>
+    <style>
+      .a{fill:#0e6b35}.b{fill:#26a641}.c{fill:#39d353}.d{fill:#7ee787}.e{fill:#ffb703}
+    </style>
+
+    <filter id="glow" filterUnits="userSpaceOnUse" x="-200" y="0" width="1240" height="172">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="dots" x="36" y="22" width="96" height="64" patternUnits="userSpaceOnUse">
+      <circle class="b" cx="8" cy="8" r="5"/><circle class="c" cx="24" cy="8" r="5"/><circle class="a" cx="40" cy="8" r="5"/><circle class="d" cx="56" cy="8" r="5"/><circle class="b" cx="72" cy="8" r="5"/><circle class="c" cx="88" cy="8" r="5"/>
+      <circle class="c" cx="8" cy="24" r="5"/><circle class="a" cx="24" cy="24" r="5"/><circle class="b" cx="40" cy="24" r="5"/><circle class="e" cx="56" cy="24" r="5"/><circle class="d" cx="72" cy="24" r="5"/><circle class="a" cx="88" cy="24" r="5"/>
+      <circle class="a" cx="8" cy="40" r="5"/><circle class="d" cx="24" cy="40" r="5"/><circle class="c" cx="40" cy="40" r="5"/><circle class="b" cx="56" cy="40" r="5"/><circle class="a" cx="72" cy="40" r="5"/><circle class="b" cx="88" cy="40" r="5"/>
+      <circle class="d" cx="8" cy="56" r="5"/><circle class="b" cx="24" cy="56" r="5"/><circle class="e" cx="40" cy="56" r="5"/><circle class="c" cx="56" cy="56" r="5"/><circle class="c" cx="72" cy="56" r="5"/><circle class="d" cx="88" cy="56" r="5"/>
+    </pattern>
+
+    <mask id="eat" maskUnits="userSpaceOnUse" x="0" y="0" width="840" height="172">
+      <rect width="840" height="172" fill="#fff"/>
+
+      <rect x="36" y="22" width="0" height="16" fill="#000">
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.02999;0.14627;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="804" y="38" width="0" height="16" fill="#000">
+        <animate attributeName="x" values="804;804;36;36" keyTimes="0;0.14871;0.26377;1" dur="24s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.14871;0.26377;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="36" y="54" width="0" height="16" fill="#000">
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.26622;0.38127;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="804" y="70" width="0" height="16" fill="#000">
+        <animate attributeName="x" values="804;804;36;36" keyTimes="0;0.38372;0.49878;1" dur="24s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.38372;0.49878;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="36" y="86" width="0" height="16" fill="#000">
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.50122;0.61628;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="804" y="102" width="0" height="16" fill="#000">
+        <animate attributeName="x" values="804;804;36;36" keyTimes="0;0.61873;0.73378;1" dur="24s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.61873;0.73378;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="36" y="118" width="0" height="16" fill="#000">
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.73623;0.85129;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="804" y="134" width="0" height="16" fill="#000">
+        <animate attributeName="x" values="804;804;36;36" keyTimes="0;0.85373;0.96879;1" dur="24s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;768;768" keyTimes="0;0.85373;0.96879;1" dur="24s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- nuqtalar (ilon yeganda yo'qoladi) -->
+  <rect x="36" y="22" width="768" height="128" fill="url(#dots)" mask="url(#eat)"/>
+
+  <!-- ilon -->
+  <g filter="url(#glow)" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M-160,30 H796 V46 H44 V62 H796 V78 H44 V94 H796 V110 H44 V126 H796 V142 H-160"
+          stroke="#0A84FF" stroke-width="11" stroke-dasharray="130 7000" stroke-dashoffset="130">
+      <animate attributeName="stroke-dashoffset" from="130" to="-6406" dur="24s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-160,30 H796 V46 H44 V62 H796 V78 H44 V94 H796 V110 H44 V126 H796 V142 H-160"
+          stroke="#5E5CE6" stroke-width="18" stroke-dasharray="0.1 8000" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="0" to="-6536" dur="24s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-160,30 H796 V46 H44 V62 H796 V78 H44 V94 H796 V110 H44 V126 H796 V142 H-160"
+          stroke="#ffffff" stroke-width="6" stroke-dasharray="0.1 8000" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="0" to="-6536" dur="24s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
