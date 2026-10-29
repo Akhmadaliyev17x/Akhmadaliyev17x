@@ -2,17 +2,17 @@
   <img src="./banner.svg" alt="Muhammad Axmadaliyev" width="100%" />
 </p>
 
-## 👋 About Me
+## About Me
 
 I'm a mobile developer focused on **Flutter** and **native iOS**. I build production apps for fintech, EdTech, transportation, logistics and corporate products, with an emphasis on clean architecture, app stability and measurable business results.
 
-## 🏆 Highlights
+## Highlights 🏆 
 
 | 👥 Users | 🥇 Store Ranking | 🛡 Stability |
 |:---:|:---:|:---:|
 | **1,000,000+** users served | **#1 in Finance** on Google Play & App Store | Crash-free rate **30% → 94%+** |
 
-## 🎯 Areas of Focus
+## Areas of Focus 🎯 
 
 - 📱 **Mobile Development:** cross-platform apps for Android and iOS with Flutter and Dart
 - 🍎 **Native iOS:** Swift and SwiftUI, including WidgetKit widgets and Live Activities
@@ -47,7 +47,7 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 
 - 🐕 [**Watchdog**](https://pub.dev/packages/watchdog): open-source Dart/Flutter package to inspect network requests, routes, instances and error logs of a running app from the browser.
 
-## 📫 Contact
+## Contact 📫 
 
 <p>
   <a href="https://t.me/muhammad_akhmadaliyev"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
