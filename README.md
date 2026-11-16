@@ -37,6 +37,7 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
 
 | Company | Role | What I did |
 |---|---|---|
+| [**MyUztelecom**](https://uztelecom.uz) (partnership) | Flutter & Frontend Developer | Building products together with Uztelecom:<br>🍽 [**MENU**](https://menuuzbekistan.uz/): food ordering and restaurant table booking<br>🚜 [**SpecRent**](https://specrent.uz/): heavy construction machinery rental<br>🥗 [**Caloria AI**](https://uztelecom.uz/ru/chastnym-licam/mobilnaya-svyaz/gsm/uslugi/dopolnitelnye-uslugi/caloria-ai/): AI-powered food and calorie tracking with personal recommendations<br>🏠 [**SmartServices**](https://smartservices.uz/): B2B/B2C monitoring systems and home services (electrician, plumber, Wi-Fi setup) |
 | [**Yunix Taxi**](https://yunix.uz) | iOS & Flutter Developer | Real-time driver tracking, Yandex Maps, WidgetKit and Live Activities |
 | [**pDaftar**](https://pdaftar.uz) | Flutter Developer | Finance platform for small businesses, #1 in Finance on both stores |
 | [**Ustoz AI**](https://ustoz.ai) | Flutter Developer | 1M+ users platform, offline-first sync, real-time chat, Apple Pay |
@@ -55,13 +56,4 @@ I'm a mobile developer focused on **Flutter** and **native iOS**. I build produc
   <a href="mailto:akhmadaliyev17x@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
-
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Akhmadaliyev17x/Akhmadaliyev17x/output/github-snake.svg" />
-</picture> -->
